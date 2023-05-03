@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project was created following [this Udemy course](https://www.udemy.com/course/react-redux/)
+
+[Link to video demo](https://drive.google.com/file/d/1CT3PkZ-Be_dgPYj9jNGJR4PeQ6cEIirC/view?usp=sharing)
+
 ## Available Scripts
 
 In the project directory, you can run:
